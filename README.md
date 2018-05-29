@@ -1,2 +1,2 @@
 # parprog
-Parallel Programming (IN2147)
+TUM - Parallel Programming (IN2147)
